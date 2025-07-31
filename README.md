@@ -1,5 +1,5 @@
  INFORMAX AI-POWERED BODILY INJURY MANAGEMENT PLATFORM
-📁 README – Proje Çalışma Kılavuzu (500K–1M TL Etap)
+ Proje Çalışma Kılavuzu (500K–1M TL Etap)
 
  Proje Amacı
 Türkiye'nin sigorta sektöründe dijital dönüşümünü hızlandırmak amacıyla geliştirilen Informax, yapay zeka destekli beden hasarı analiz platformudur. Proje, sigorta tazminat süreçlerini kağıtsız, otomatik ve çevreci bir yapıya dönüştürerek:
